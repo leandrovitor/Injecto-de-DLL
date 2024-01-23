@@ -1,0 +1,11 @@
+c:\users\leandro\documents\visual studio 2015\Projects\Injecto\Injecto\bin\Debug\Injecto.exe
+c:\users\leandro\documents\visual studio 2015\Projects\Injecto\Injecto\bin\Debug\Injecto.pdb
+c:\users\leandro\documents\visual studio 2015\Projects\Injecto\Injecto\bin\Debug\Injecto.xml
+c:\users\leandro\documents\visual studio 2015\Projects\Injecto\Injecto\obj\Debug\Injecto.vbprojResolveAssemblyReference.cache
+c:\users\leandro\documents\visual studio 2015\Projects\Injecto\Injecto\obj\Debug\Injecto.Form1.resources
+c:\users\leandro\documents\visual studio 2015\Projects\Injecto\Injecto\obj\Debug\Injecto.Resources.resources
+c:\users\leandro\documents\visual studio 2015\Projects\Injecto\Injecto\obj\Debug\Injecto.vbproj.GenerateResource.Cache
+c:\users\leandro\documents\visual studio 2015\Projects\Injecto\Injecto\obj\Debug\Injecto.exe
+c:\users\leandro\documents\visual studio 2015\Projects\Injecto\Injecto\obj\Debug\Injecto.xml
+c:\users\leandro\documents\visual studio 2015\Projects\Injecto\Injecto\obj\Debug\Injecto.pdb
+C:\Users\Leandro\documents\visual studio 2015\Projects\Injecto\Injecto\bin\Debug\Injecto.exe.config
